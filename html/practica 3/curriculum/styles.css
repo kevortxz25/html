@@ -1,0 +1,262 @@
+html
+{
+    background-color: black;
+}
+nav{
+    background-color: rgb(10, 230, 211);
+    width: 1334px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 0px;
+}
+
+section#nombre 
+{
+    background-color: white;
+    width: 1323px;
+    width: center;
+    height: 30px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+header
+{
+    background-color: rgb(0, 132, 255);
+    width: 1332px;
+    height: 215px;
+    margin: 5px;
+    border-radius: 0px;
+}
+
+section#datos
+{
+    background-color: white;
+    width: 1110px;
+    height: 30px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+section#datos2
+{
+
+    width: 1100px;
+    height: 15px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#logo 
+{
+    background-color: white;
+    width: 250px;
+    height: 60px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+main
+{
+    background-color: rgb(0, 132, 255);
+    width: 1332px;
+    height: 210px;
+    margin: 5px;
+    border-radius: 0px;
+}
+
+section#laboral
+{
+    background-color: white;
+    width: 1318px;
+    height: 30px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+article
+{
+    width: 815px;
+    height: 253px;
+    float: left;
+    margin: 5px;
+    border-color: brown;
+}
+
+section#educacion
+{
+    background-color: white;
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+section#escuelas
+{
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#capacidad
+{
+    background-color: gray;
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+section#lengua
+{
+    background-color: white;
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#español
+{
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#idiomas
+{
+    background-color: white;
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#ingles
+{
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#actitudes
+{
+    background-color: white;
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#inf
+{
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#permiso
+{
+    background-color: white;
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#conducir
+{
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#actitudes
+{
+    background-color: white;
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#inf
+{
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+
+section#adicional
+{
+    background-color: white;
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+section#equipo
+{
+    width: 1318px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: left;
+}
+
+footer
+{
+    background-color: rgb(10, 230, 211);
+    width: 1334px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}

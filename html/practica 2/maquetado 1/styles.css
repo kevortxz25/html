@@ -1,0 +1,121 @@
+html
+{
+    background-color: black;
+}
+nav{
+    background-color: green;
+    width: 1325px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 0px;
+}
+
+section#box {
+    background-color: white;
+    width: 255px;
+    height: 90px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+header
+{
+    background-color: blue;
+    width: 1334x;
+    height: 215px;
+    margin: 5px;
+    border-radius: 0px;
+}
+
+section#banner 
+{
+    background-color: white;
+    width: 1050px;
+    height: 200px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+section#logo 
+{
+    background-color: white;
+    width: 250px;
+    height: 60px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+section#login
+{
+    background-color: white;
+    width: 250px;
+    height: 60px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+section#form 
+{
+    background-color: white;
+    width: 250px;
+    height: 60px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+main
+{
+    background-color: grey;
+    width: 500x;
+    height: 263px;
+    margin: 5px;
+    border-radius: 0px;
+}
+
+aside
+{
+    background-color: white;
+    width: 200;
+    height: 400px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+    border-color: brown;
+}
+
+article
+{
+    background-color: white;
+    width: 815px;
+    height: 253px;
+    float: left;
+    margin: 5px;
+    border-color: brown;
+}
+
+aside
+{
+    background-color: white;
+    width: 238px;
+    height: 253px;
+    float: left;
+    margin: 5px;
+    border-radius: 0px;
+}
+
+footer{
+    background-color: orange;
+    width: 1325px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 0px;
+}
